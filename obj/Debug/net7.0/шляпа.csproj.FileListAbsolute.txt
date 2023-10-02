@@ -1,0 +1,5 @@
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/шляпа.csproj.AssemblyReference.cache
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/шляпа.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/шляпа.AssemblyInfoInputs.cache
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/шляпа.AssemblyInfo.cs
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/шляпа.csproj.CoreCompileInputs.cache

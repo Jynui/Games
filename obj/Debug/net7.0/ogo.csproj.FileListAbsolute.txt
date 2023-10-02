@@ -1,0 +1,15 @@
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ogo.csproj.AssemblyReference.cache
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ogo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ogo.AssemblyInfoInputs.cache
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ogo.AssemblyInfo.cs
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ogo.csproj.CoreCompileInputs.cache
+/Users/tagirner/Projects/шляпа/шляпа/bin/Debug/net7.0/ogo
+/Users/tagirner/Projects/шляпа/шляпа/bin/Debug/net7.0/ogo.deps.json
+/Users/tagirner/Projects/шляпа/шляпа/bin/Debug/net7.0/ogo.runtimeconfig.json
+/Users/tagirner/Projects/шляпа/шляпа/bin/Debug/net7.0/ogo.dll
+/Users/tagirner/Projects/шляпа/шляпа/bin/Debug/net7.0/ogo.pdb
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ogo.dll
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/refint/ogo.dll
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ogo.pdb
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ogo.genruntimeconfig.cache
+/Users/tagirner/Projects/шляпа/шляпа/obj/Debug/net7.0/ref/ogo.dll
